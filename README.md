@@ -1,16 +1,8 @@
-# Project Name: Responsive Landing Page
-
-- [DEMO LINK](https://anastasia1383.github.io/BandO-landing/)
-
-## Table of Contents
-
-1. [Introduction](#introduction)
-2. [Technologies Used](#technologies-used)
-3. [Getting Started](#getting-started)
-4. [Contributing](#contributing)
-5. [License](#license)
+# Responsive Landing Page
 
 ## Introduction
+
+- [DEMO LINK](https://anastasia1383.github.io/BandO-landing/)
 
 This project is a responsive landing page built using HTML, SCSS, and BEM methodology. The goal is to provide a clean, responsive, and modular codebase that adheres to best practices in web development.
 
@@ -26,7 +18,7 @@ This project is a responsive landing page built using HTML, SCSS, and BEM method
 
 Make sure you have the following installed:
 
-- Node.js and npm (Node Package Manager)
+- Node.js (v14.18.2) and npm (Node Package Manager)
 
 ### Installation
 
